@@ -1,0 +1,26 @@
+[
+    {
+        "idk": 1,
+        "firstName": "Darwin",
+        "lastName": "Hernandez",
+        "email": "Dh0740226@mail.fresnostate.edu",
+        "phone": "(209) 205-6971",
+        "editing": false
+    },
+    {
+        "idk": 2,
+        "firstName": "Manny",
+        "lastName": "Pacquiao",
+        "email": "Pacman@yahoo.com",
+        "phone": "(209) 222-1111",
+        "editing": false
+    },
+    {
+        "idk": 3,
+        "firstName": "Cristiano",
+        "lastName": "Ronaldo",
+        "email": "CR7@yahoo.com",
+        "phone": "(707) 777-7777",
+        "editing": false
+    }
+]
